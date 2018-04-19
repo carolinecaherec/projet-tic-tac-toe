@@ -1,8 +1,19 @@
 # projet-tic-tac-toe
 
-Projet intéressant.
-Notre stratégie a été de mettre en application le cours sur POO. Par conséquent, notre programme ne fonctionne pas dans son intégralité nous avons préférés nous concentrés sur des savoirs aquis.
+1_Auteurs et copyright
+Thomas Szadek et Caroline Cahérec
 
-Class
+2_État du projet
+Notre stratégie a été de mettre en application le cours sur POO. 
+Par conséquent, notre programme ne fonctionne pas dans son intégralité nous avons préféré nous concentrer sur des savoirs aquis.
 
-  >> Objet 
+3_Rapide description
+Nous avons défini les classes du Game 
+- Players
+- Game
+- Board
+
+4_Mise ne place, utilisation rapide
+HS
+
+
